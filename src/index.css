@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "growth";
+  src: url("../src/Fonts/growth.otf");
+}
+
+@font-face {
+  font-family: "youth";
+  src: url("../src/Fonts/Youth-Medium.woff2");
+}
+
+@font-face {
+  font-family: "mokoto";
+  src: url("../src/Fonts/Mokoto\ Demo.ttf");
+}
+
+.text {
+  background-image: linear-gradient(
+    2005deg,
+    rgb(255, 255, 247) 8.55094%,
+    rgb(103, 113, 114) 107.012%
+  );
+  background-clip: text;
+  color: transparent;
+}
+
+.bg {
+  background-image: radial-gradient(
+      121.65% 100% at 32.68% 0,
+      #4a89af,
+      rgba(74, 118, 138, 0.18) 32.49%,
+      rgba(71, 98, 110, 0) 51.34%
+    ),
+    radial-gradient(
+      91.41% 43.04% at 50% 0,
+      #263238 20.67%,
+      rgba(26, 30, 36, 0) 100%
+    ),
+    radial-gradient(
+      69.96% 25.89% at 50% 100%,
+      #151a1e 22.77%,
+      rgba(19, 22, 27, 0) 100%
+    );
+}
