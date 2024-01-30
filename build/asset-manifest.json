@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ERSMERONZ-2024/static/css/main.c8d72ee7.css",
+    "main.js": "/ERSMERONZ-2024/static/js/main.716b3091.js",
+    "static/js/717.f7f93f0a.chunk.js": "/ERSMERONZ-2024/static/js/717.f7f93f0a.chunk.js",
+    "static/js/837.c5d802b1.chunk.js": "/ERSMERONZ-2024/static/js/837.c5d802b1.chunk.js",
+    "static/js/450.95cea1cf.chunk.js": "/ERSMERONZ-2024/static/js/450.95cea1cf.chunk.js",
+    "static/js/57.8c6c407a.chunk.js": "/ERSMERONZ-2024/static/js/57.8c6c407a.chunk.js",
+    "static/js/649.c19c4280.chunk.js": "/ERSMERONZ-2024/static/js/649.c19c4280.chunk.js",
+    "static/js/971.ebd17871.chunk.js": "/ERSMERONZ-2024/static/js/971.ebd17871.chunk.js",
+    "static/js/316.1759fa71.chunk.js": "/ERSMERONZ-2024/static/js/316.1759fa71.chunk.js",
+    "static/js/741.7b46d9a2.chunk.js": "/ERSMERONZ-2024/static/js/741.7b46d9a2.chunk.js",
+    "static/media/human-big-data-visualization.jpg": "/ERSMERONZ-2024/static/media/human-big-data-visualization.e9be93a138e689d2cf91.jpg",
+    "static/media/Ms-Nandhini-K-M.png": "/ERSMERONZ-2024/static/media/Ms-Nandhini-K-M.9de87a0819639767c1d7.png",
+    "static/media/Youth-Medium.woff2": "/ERSMERONZ-2024/static/media/Youth-Medium.8f0495ca26a5388d790a.woff2",
+    "static/media/Mr-Prathap-M-R.jpg": "/ERSMERONZ-2024/static/media/Mr-Prathap-M-R.69d64cb8625e7a17920b.jpg",
+    "static/media/Dr-Vairavel-K-S.jpg": "/ERSMERONZ-2024/static/media/Dr-Vairavel-K-S.203894673bb7b0fa1686.jpg",
+    "static/media/growth.otf": "/ERSMERONZ-2024/static/media/growth.5094ad9175f6e3f827f7.otf",
+    "static/media/Mokoto Demo.ttf": "/ERSMERONZ-2024/static/media/Mokoto Demo.b5028ec70d498a4e7f7b.ttf",
+    "index.html": "/ERSMERONZ-2024/index.html",
+    "main.c8d72ee7.css.map": "/ERSMERONZ-2024/static/css/main.c8d72ee7.css.map",
+    "main.716b3091.js.map": "/ERSMERONZ-2024/static/js/main.716b3091.js.map",
+    "717.f7f93f0a.chunk.js.map": "/ERSMERONZ-2024/static/js/717.f7f93f0a.chunk.js.map",
+    "837.c5d802b1.chunk.js.map": "/ERSMERONZ-2024/static/js/837.c5d802b1.chunk.js.map",
+    "450.95cea1cf.chunk.js.map": "/ERSMERONZ-2024/static/js/450.95cea1cf.chunk.js.map",
+    "57.8c6c407a.chunk.js.map": "/ERSMERONZ-2024/static/js/57.8c6c407a.chunk.js.map",
+    "649.c19c4280.chunk.js.map": "/ERSMERONZ-2024/static/js/649.c19c4280.chunk.js.map",
+    "971.ebd17871.chunk.js.map": "/ERSMERONZ-2024/static/js/971.ebd17871.chunk.js.map",
+    "316.1759fa71.chunk.js.map": "/ERSMERONZ-2024/static/js/316.1759fa71.chunk.js.map",
+    "741.7b46d9a2.chunk.js.map": "/ERSMERONZ-2024/static/js/741.7b46d9a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8d72ee7.css",
+    "static/js/main.716b3091.js"
+  ]
+}
